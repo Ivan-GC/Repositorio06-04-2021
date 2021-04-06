@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflicto en la master
+=======
+aaaaaaaaaa bbbbbbbbbbbbbbb cccccccccccccc
+>>>>>>> prueba2
